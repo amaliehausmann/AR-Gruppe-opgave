@@ -1,0 +1,536 @@
+{
+  "asset": {
+    "generator": "UnityGLTF",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_texture_transform"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Character_Rock_Golem"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4156,
+      "type": "VEC3",
+      "max": [
+        102.37603759765625,
+        181.52571105957031,
+        14.63525390625
+      ],
+      "min": [
+        -102.37619018554688,
+        -0.889892578125,
+        -16.7373046875
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4156,
+      "type": "VEC3",
+      "max": [
+        0.99995243549346924,
+        0.99994885921478271,
+        0.99917954206466675
+      ],
+      "min": [
+        -0.99993336200714111,
+        -1.0,
+        -0.99985015392303467
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4156,
+      "type": "VEC4",
+      "max": [
+        0.41335451602935791,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.40584522485733032,
+        -0.41080844402313232,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4156,
+      "type": "VEC2",
+      "max": [
+        0.30830276012420654,
+        0.72451531887054443
+      ],
+      "min": [
+        0.199371337890625,
+        0.61879575252532959
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 4156,
+      "type": "VEC2",
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 5286,
+      "type": "SCALAR",
+      "max": [
+        4155.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 73,
+      "type": "SCALAR",
+      "max": [
+        2.4166667461395264
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 73,
+      "type": "VEC3",
+      "max": [
+        0.0033758203499019146,
+        0.032784458249807358,
+        -0.017080912366509438
+      ],
+      "min": [
+        0.0033758203499019146,
+        -0.0078729512169957161,
+        -0.017080912366509438
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 73,
+      "type": "SCALAR",
+      "max": [
+        2.4166667461395264
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 73,
+      "type": "VEC4",
+      "max": [
+        0.0,
+        0.091877095401287079,
+        0.0,
+        -0.98425686359405518
+      ],
+      "min": [
+        0.0,
+        -0.17674414813518524,
+        0.0,
+        -0.99999988079071045
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 2,
+      "type": "SCALAR",
+      "max": [
+        2.4166667461395264
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 2,
+      "type": "SCALAR",
+      "max": [
+        2.4166667461395264
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 2,
+      "type": "SCALAR",
+      "max": [
+        2.4166667461395264
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC4",
+      "max": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 2,
+      "type": "SCALAR",
+      "max": [
+        2.4166667461395264
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3",
+      "max": [
+        0.0099999997764825821,
+        0.0099999997764825821,
+        0.0099999997764825821
+      ],
+      "min": [
+        0.0099999997764825821,
+        0.0099999997764825821,
+        0.0099999997764825821
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 0,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 3,
+          "target": {
+            "node": 1,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 4,
+          "target": {
+            "node": 1,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 5,
+          "target": {
+            "node": 1,
+            "path": "scale"
+          }
+        }
+      ],
+      "samplers": [
+        {
+          "input": 6,
+          "interpolation": "LINEAR",
+          "output": 7
+        },
+        {
+          "input": 8,
+          "interpolation": "LINEAR",
+          "output": 9
+        },
+        {
+          "input": 10,
+          "interpolation": "LINEAR",
+          "output": 11
+        },
+        {
+          "input": 12,
+          "interpolation": "LINEAR",
+          "output": 13
+        },
+        {
+          "input": 14,
+          "interpolation": "LINEAR",
+          "output": 15
+        },
+        {
+          "input": 16,
+          "interpolation": "LINEAR",
+          "output": 17
+        }
+      ],
+      "name": "Happy Idle"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Character_Rock_Golem.bin",
+      "byteLength": 246072
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 49872,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49872,
+      "byteLength": 49872,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 99744,
+      "byteLength": 66496,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 166240,
+      "byteLength": 33248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 199488,
+      "byteLength": 33248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 232736,
+      "byteLength": 10572,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 243308,
+      "byteLength": 292
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 243600,
+      "byteLength": 876
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 244476,
+      "byteLength": 292
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 244768,
+      "byteLength": 1168
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 245936,
+      "byteLength": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 245944,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 245968,
+      "byteLength": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 245976,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 246000,
+      "byteLength": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 246008,
+      "byteLength": 32
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 246040,
+      "byteLength": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 246048,
+      "byteLength": 24
+    }
+  ],
+  "images": [
+    {
+      "uri": "Dungeons_Texture_01.jpg",
+      "name": "Dungeons_Texture_01"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0,
+          "extensions": {
+            "KHR_texture_transform": {}
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.79999999701976776
+      },
+      "name": "Dungeons_Material_Characters_01"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0
+        }
+      ],
+      "name": "Character_Rock_Golem"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "Character_Rock_Golem"
+    },
+    {
+      "mesh": 0,
+      "scale": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "name": "Character_Rock_Golem"
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9987
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Dungeons_Texture_01"
+    }
+  ]
+}
