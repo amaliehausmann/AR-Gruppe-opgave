@@ -9,9 +9,10 @@
 </head>
 <body>
 <a-scene embedded arjs>
-    <a-marker preset="barcode" type="pattern" url="./markers/0.png">
-        
+    <a-marker type="pattern" url="./markers/0.png">
+        <a-box position="0 0 0" color="black"></a-box>
     </a-marker>
+    <a-entity camera look-controls position="0 1.6 0"></a-entity>
 </a-scene>
 </body>
 </html>
