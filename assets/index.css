@@ -1,23 +1,39 @@
-/* body {
-    margin: 0;
-    overflow: hidden;
-}
-
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    z-index: 1; /* Ensure the header is above the A-Frame scene */
-}
-
-a-scene {
+#buttonOne{
     position: absolute;
-    top: 60px; /* Adjust the top position based on your header's height */
-    width: 100%;
-    height: calc(100% - 60px); /* Adjust the height based on your header's height */
-} */
+    top: 110%;
+    right: 45%;
+    background-color: rgba(0, 0, 0, 0.527);
+    border: solid white 2px;
+    border-radius: 30px;
+    padding: 2vw;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    overflow: hidden;
+    margin: auto;
+}
+
+.aboutBody{
+    background-color: black;
+}
+
+h1, h2{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#buttonTwo{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.527);
+    border: solid white 2px;
+    border-radius: 30px;
+    padding: 2vw;
+    display: block;
+    margin: auto;
+}
