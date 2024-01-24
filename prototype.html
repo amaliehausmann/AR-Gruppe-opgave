@@ -16,19 +16,18 @@
     </header>
     <main>
 <a-scene embedded arjs="detectionMode: mono_and_matrix; matrixCodeType: 4x4_BCH_13_5_5;">
+
     <a-assets>
             <a-asset-item id="goblinFemale" src="./assets/models/Character_Goblin_Warrior_Female/Character_Goblin_Warrior_Female.gltf"></a-asset-item>
             <a-asset-item id="rockGolem" src="./assets/models/Character_Rock_Golem/Character_Rock_Golem.gltf"></a-asset-item>
             <a-asset-item id="skeleton" src="./assets/models/Character_Skeleton_Slave_01/Character_Skeleton_Slave_01.gltf"></a-asset-item>
         </a-assets>
        
- 
     <a-marker type="barcode" value="0">
         <a-entity gltf-model="#goblinFemale" position="0 0 0" rotation="-90 0 0" animation-mixer></a-entity>
         <a-text value="Amalie" position="-0.5 1 -2" color="white" rotation="-90 0 0" ></a-text>
     </a-marker>
-    <a-entity camera look-controls position="0 0 0"></a-entity>
- 
+
     <a-marker type="barcode" value="1">
         <a-entity gltf-model="#rockGolem" position="0 0 0" rotation="-90 0 0" animation-mixer></a-entity>
         <a-text value="Loveleen" position="-0.5 1 -2" color="white" rotation="-90 0 0" ></a-text>
@@ -38,6 +37,7 @@
         <a-entity gltf-model="#skeleton" position="0 0 0" rotation="-90 0 0" animation-mixer></a-entity>
         <a-text value="Alikhan" position="-0.5 1 -2" color="white" rotation="-90 0 0" ></a-text>
     </a-marker>
+    
     <a-entity camera look-controls position="0 0 0"></a-entity>
 </a-scene>
  
