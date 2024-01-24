@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0;
     overflow: hidden;
 }
@@ -20,4 +20,4 @@ a-scene {
     top: 60px; /* Adjust the top position based on your header's height */
     width: 100%;
     height: calc(100% - 60px); /* Adjust the height based on your header's height */
-}
+} */
