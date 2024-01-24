@@ -1,2 +1,2 @@
 # AR-Gruppe-opgave
-https://amaliehausmann.github.io/AR-Gruppe-opgave/index.html
+https://amaliehausmann.github.io/AR-Gruppe-opgave//
