@@ -9,14 +9,25 @@
 </head>
 <body>
 <a-scene embedded arjs>
-    <a-marker type="pattern" url="./markers/0.png">
+    <a-marker type="pattern" url="./markers/2.png">
         <a-box position="0 0 0" color="black"></a-box>
     </a-marker>
     <a-entity camera look-controls position="0 1.6 0"></a-entity>
-    <a-entity
-                gltf-model="Character_Skeleton_Slave_01.gltf"
-                scale="0.5 0.5 0.5"
-            ></a-entity>
+    
+    <a-assets>
+        <a-asset-item id="skeleton" src="./assets/images/Character_Skeleton_Slave_01/Character_Skeleton_Slave_01.gltf" rotation="0 0 0"></a-asset-item>
+    </a-assets>
+    
+    <a-marker type="marker" value="1">
+
+        <a-entity text="value: Alikhan; anchor:center; side: double;" scale="13 13 13"
+        position="5 0.5 1.5"></a-entity>
+
+        <a-entity gltf-model="#skeleton" scale="0.8 0.8 0.8" position="0 1 0" rotation="0 0 0"
+        animation="property: rotation; from: 0 180 0; to 0 -180 0; loop: true; dur: 1000"></a-entity>
+
+    </a-marker>
+    
 </a-scene>
 </body>
 </html>
